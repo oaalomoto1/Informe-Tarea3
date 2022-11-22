@@ -1,6 +1,6 @@
 # Informe-Tarea3
 
-#1 . OBJETIVOS
+# 1 . OBJETIVOS
 
 1.1 OBJETIVO GENERAL.
 
@@ -16,7 +16,7 @@
 
 -Analizar el potencial nominal del resistor, y en como este influye en la protección de los elementos de un circuito eléctrico.
 
-#2. MARCO TEÓRICO (RESUMEN)
+# 2. MARCO TEÓRICO (RESUMEN)
 
 ***CAPÍTULO 5 - CIRCUITOS EN SERIE***
 
@@ -77,3 +77,17 @@
 
 ![6 10](https://user-images.githubusercontent.com/116774906/203323189-7306a709-7d29-4f12-9a60-0ad56f61bf37.jpg)
 
+# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+# 4. VIDEO
+
+Link del video en YouTube
+
+
+
+# 5. CONCLUSIONES
+
+# 6.BIBLIOGRAFÍA
+
+-Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
