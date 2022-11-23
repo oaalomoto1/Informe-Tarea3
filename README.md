@@ -79,6 +79,14 @@
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+***CAPÍTULO 5 - CIRCUITOS EN SERIE***
+
+**2. Determine que resistores de la figura 5-68 están en serie. Demuestre como interconectar las puntas para poner todos los resistores en serie.**
+
+![image](https://user-images.githubusercontent.com/116774906/203449657-5451dcd9-f2a8-4826-ac8a-0e0d5ded0f60.png)
+
+
+***CAPÍTULO 6 - CIRCUITOS EN PARALELO***
 
 # 4. VIDEO
 
