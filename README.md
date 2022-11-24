@@ -317,6 +317,15 @@ Link del video en YouTube
 
 # 5. CONCLUSIONES
 
+*-Se pudo identificar las principales características que diferencian al circuito en serie del paralelo, como el caso de la corriente en un circuito en serie la [I] es constante, mientras que en un circuito paralelo el voltaje es constante. De igual manera para calcular la resistencia es muy diferente en ambos circuitos.* 
+
+*-La definición y formulas que establecen el circuito en serie es muy importante saber, ya que con dicho conocimiento que se adquiere será más fácil, identificar y calcular voltaje, corriente, resistencia y potencia de un circuito en serie. *
+
+*-Es importante saber identificar donde aplicar las leyes de LVK Y LCK, para el análisis y calculo del circuito, ya que ambas leyes dictan conceptos y ecuaciones que son muy importantes, y donde son aplicados es de suma importancia ya que la LVK se aplica en trayectorias de un circuito en serie cerrado, mientras que LCK es aplicada en nodos de un circuito paralelo.*
+
+*-La aplicación de los conceptos de un circuito en serie y paralelo facilita la comprensión y cálculos respectivos que pide cada ejercicio, de igual manera estos dos conceptos es importante dominar ya que su aplicación puede ser en un circuito mixto, por lo que si se sabe cada definición y formulas no habrá ningún problema.* 
+
+*-Aplicar los conceptos de circuito en serie y paralelo en la resolución de ejercicios.* 
 # 6.BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
