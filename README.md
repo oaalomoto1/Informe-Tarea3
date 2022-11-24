@@ -2,19 +2,20 @@
 
 # 1 . OBJETIVOS
 
-1.1 OBJETIVO GENERAL.
+**1.1 OBJETIVO GENERAL.**
 
--Aprender las leyes de ohm que relaciona voltaje, corriente y resistencia, con los principios que rigen la energía y potencia con ayuda de organizadores gráficos que contendrán la información más importante para una mejor comprensión de los temas que se derivan de estos dos.
+*Aprender a identificar las características y formulas de los circuitos en serie y paralelo, con ayuda de organizadores gráficos y resolución de ejercicios, para tener un mejor dominio a la hora de saber la forma del circuito que vamos a trabajar en un futuro.* 
 
-1.2 OBJETIVOS ESPECÍFICOS.
+**1.2 OBJETIVOS ESPECÍFICOS.**
 
--Estudiar las leyes ohm para poder calcular los valores de resistencia, voltaje y corriente.
+*-Investigar las principales características que diferencian el circuito serie del paralelo.*
 
--Observar el comportamiento de las gráficas cuando se relaciona el voltaje con la corriente y la resistencia con la corriente.
+*-Estudiar la definición y fórmulas que están dispuestas en la forma del circuito en serie.*
 
--Aplicar la definición de potencia y energía en la resolución de ejercicios.
+*-Identificar como y en que circuito se usan las leyes de LVK y LCK.*
 
--Analizar el potencial nominal del resistor, y en como este influye en la protección de los elementos de un circuito eléctrico.
+*-Aplicar los conceptos de circuito en serie y paralelo en la resolución de ejercicios.* 
+
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
