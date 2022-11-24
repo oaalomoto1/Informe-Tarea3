@@ -313,7 +313,7 @@
 
 Link del video en YouTube
 
-
+https://youtu.be/BzzzYy8hCT0
 
 # 5. CONCLUSIONES
 
@@ -329,3 +329,7 @@ Link del video en YouTube
 # 6.BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+
+-Flores, A. (2021, 13 de septiembre).*¿Qué es un circuito eléctrico en serie? Descubre por qué debes cuidar las luces de tu árbol de navidad*. Recuperado el 23 de noviembre de: https://www.crehana.com/blog/estilo-vida/circuito-electrico-en-serie/
+
+-Zapata, F. (2021, 24 de mayo). *Circuito en paralelo*. Recuperado el 23 de noviembre de: https://www.lifeder.com/circuito-paralelo/
